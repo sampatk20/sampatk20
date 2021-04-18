@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sampatk20
 - 👀 I’m interested in Tech 
 - 🌱 I’m currently learning Data Science and ML 
-- 📫 Reach me on Twitter - @sampatk2020201, Instagram - @sampat._.jpg
+- 📫 Reach me on Twitter - @sampatk2020201, mail: sampatk2002@gmail.com
 
 <!---
 sampatk20/sampatk20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
