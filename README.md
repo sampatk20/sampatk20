@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sampatk20
-- 👀 I’m interested in Tech and Automobiles
+- 👀 I’m interested in Tech 
 - 🌱 I’m currently learning Data Science and ML 
 - 📫 Reach me on Twitter - @sampatk2020201, Instagram - @sampat._.jpg
 
