@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sampatk20
-- 👀 I’m interested in Tech| Start-Ups
+- 👀 I’m interested in Tech and Start-Ups
 - 🌱 I’m currently learning Data Science and ML 
 - 📫 Reach me on Twitter - @sampatk2020201, mail: sampatk2002@gmail.com
 
