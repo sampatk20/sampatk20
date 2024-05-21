@@ -6,7 +6,7 @@
 
 
 
-I'm Sampat Kumar Udugula, a passionate computer science enthusiast with a Master's degree from the University of Southern California (USC) and a Bachelor's degree from SRM Institute of Science and Technology. Throughout my academic journey, I've delved into various aspects of computer science, from analysis of algorithms to web technologies and machine learning.
+I'm Sampat Kumar Udugula, a passionate computer science enthusiast pursuing Master's degree from the University of Southern California (USC) and holding a Bachelor's degree from SRM Institute of Science and Technology. Throughout my academic journey, I've delved into various aspects of computer science, from analysis of algorithms to web technologies and machine learning.
 
 - 👉 My technical expertise includes languages like Python, JavaScript, C, C++, Java, HTML/CSS, and proficiency in databases like MongoDB, PostgreSQL, SQL Server, MySQL, along with tools like Git, GitHub, and Version Control.
 
