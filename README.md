@@ -14,6 +14,10 @@ I'm Sampat Kumar Udugula, a passionate computer science enthusiast pursuing Mast
 
 - 📊 I've gained practical experience through internships, including my role as a Software Engineer Intern at IBM, where I contributed to projects using Agile methodologies, Python scripting for data extraction, and web application development with Flask and JavaScript.
 
+- 📚 My research papers are available on [IEEE Explore](https://ieeexplore.ieee.org/document/9702842) and [Springer](https://link.springer.com/chapter/10.1007/978-981-19-1844-5_14)
+
+
+
 <br />
 
 <h3 align="left">Connect with me:</h3>
