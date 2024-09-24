@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hey there! <br><br>
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" height="340" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="526" height="296" />
 
 
 
