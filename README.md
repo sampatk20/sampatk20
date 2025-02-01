@@ -16,7 +16,7 @@ I'm Sampat Kumar Udugula, a passionate computer science enthusiast pursuing Mast
 
 - 📚 My research papers are available on [IEEE Explore](https://ieeexplore.ieee.org/document/9702842) and [Springer](https://link.springer.com/chapter/10.1007/978-981-19-1844-5_14)
 
-- [Portfolio](https://portfolio-dev-sigma-six.vercel.app)
+
 
 <br />
 
@@ -24,7 +24,7 @@ I'm Sampat Kumar Udugula, a passionate computer science enthusiast pursuing Mast
 <p align="left">
 
 <a href="https://linkedin.com/in/sampatkumaru" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sampatkumaru" /></a>&nbsp;
-<a href="https://sampat20.github.io/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007D00.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>
+
 
 </p>
 
